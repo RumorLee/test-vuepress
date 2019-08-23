@@ -27,7 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5f99aa8b446fa9d39dc9d6ac35f8fa64"
+    "revision": "017c7698386d0314136ba53c78b68fbd"
+  },
+  {
+    "url": "android-chrome-192x192.png",
+    "revision": "f130a0b70e386170cf6f011c0ca8c4f4"
+  },
+  {
+    "url": "android-chrome-512x512.png",
+    "revision": "0ff1bc4d14e5c9abcacba7c600d97814"
   },
   {
     "url": "assets/css/0.styles.e5e254fa.css",
@@ -66,16 +74,16 @@ self.__precacheManifest = [
     "revision": "8b029a2fcbf1e9d059f78e4ee6492a69"
   },
   {
-    "url": "assets/js/app.7305d50e.js",
-    "revision": "2e3592ed627502b2a40a6c70ab812668"
+    "url": "assets/js/app.384cb9c8.js",
+    "revision": "b83a1a5ef2bfba7deebb81a0cf6f539d"
   },
   {
     "url": "index.html",
-    "revision": "b40e7c420bc50ffb82d8f098360e9444"
+    "revision": "d2859e9a29a052687872b6be3b346f03"
   },
   {
     "url": "test.html",
-    "revision": "53120915834055d29f131591f3942635"
+    "revision": "21ef6a94d799d93664e2d0f9deb81e14"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
