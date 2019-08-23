@@ -1,5 +1,10 @@
 module.exports = {
     base: '/test-vuepress/',
+    head: [
+      ['link', { rel: 'icon', href: `/favicon.ico` }],
+      //增加manifest.json
+      ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ],
     dest:'./docs',
     plugins: {
         '@vuepress/back-to-top': true,
