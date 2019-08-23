@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/vuepress/',
+    base: '/test-vuepress/',
     plugins: {
         '@vuepress/back-to-top': true,
         '@vuepress/pwa': {
