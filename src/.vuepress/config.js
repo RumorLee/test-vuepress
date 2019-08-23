@@ -1,6 +1,6 @@
 module.exports = {
     base: '/test-vuepress/',
-    dest:'./dist',
+    dest:'./docs',
     plugins: {
         '@vuepress/back-to-top': true,
         '@vuepress/pwa': {
