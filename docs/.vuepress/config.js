@@ -1,5 +1,6 @@
 module.exports = {
     base: '/test-vuepress/',
+    dest:'./dist',
     plugins: {
         '@vuepress/back-to-top': true,
         '@vuepress/pwa': {
@@ -28,8 +29,6 @@ module.exports = {
         ],
         sidebar: [
             '/',
-            '/page-a',
-            ['/page-b', 'Explicit link text']
         ]
     },
 }
