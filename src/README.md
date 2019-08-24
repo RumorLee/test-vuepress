@@ -1,103 +1,31 @@
-# docs devvuepress dev docs!
+# 前述
 
-"docs:build": "vuepress build docs"
+这是以2.5规则（神猪整理版本，《无限恐怖2.5PHBV0.3.chm》）为主干，增加了部分新二版，以及蛮多改动的规则环境。其中较大的区别包括以下几点：
+-取消了2.5的大能规则，取而代之的是2.0为基准的附加成功规则，并有一定权重和效果修改。
+-以特性位和特性DP值为基准的撰写规则，并根据等级具有一定加成。
+-简化/修改了某些规则，如造物、敏感范围、载具驾驶等；删除了某些概念而以其他的概念进行代替，如硬度。
+-血统不再提供属性加值，而是每个资源根据等级提供属性值和属性值上限。
+-购买属性是依照购买的次数，而非当前属性值。
+更多和更为具体的修改内容请自行查看。
+资源大多来自于《无限恐怖强化资源.chm》、纯美苹果园、好腿，及其他各种各样的地方。后期有很多小伙伴投稿，多谢多谢。
 
-::: tip
-This is a tip
-:::
+这个环境是一个较弱、而且禁止很多高收益搭配的数值环境。
+咳，总之，因此可能会造成某些人的不适。如果发现什么错误的话，请联系我，尽量会在下一版改……吧……。
+如果在本文中有发现你写的资源，并且需要署名或删除，也请联系我。
+如果你想更改自己在污榜里的描述、简介之流，或者不想在榜上了，联系我。
 
-::: warning
-This is a warning
-:::
+我们只是兴趣使然的规则整理者而已
 
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
+因为使用此规则导致对其他规则版本的误解和比较，请找对应的PC解决问题。
+如果有好的建议，或者想投递资源，请联系我们。
 
-::: warning
-This is a warning
-:::
+QQ：570314459
+果园id：迦罗沙曳
 
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
+FX团队成员（截止至FX066）
+酱油：血统、魔导书相关 
+七夜：物品与载具相关 
+龙卷：瞳术、改造相关 
+冯德：基础规则、技艺和能量相关
+唐：科技侧，任何 
+姆Q、司空、艾莉斯、僵尸、Qfwfq、啤酒、索斯、糕、慕容慕琪、维希、红黑、艹喵、余音小姐女子力超高的，符周六：各种资源 
